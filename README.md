@@ -1,4 +1,4 @@
-# nahHacksProject-StrikeofThought
+# natHacksProject-StrikeofThought
 
 To access this project, extract and download all files found within.
 
